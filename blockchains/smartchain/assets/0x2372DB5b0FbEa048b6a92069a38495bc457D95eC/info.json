@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "type": "BEP20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "Official USDT",
+  "website": "https://usdttokens.com",
+  "explorer": "https://bscscan.com/token/0x2372DB5b0FbEa048b6a92069a38495bc457D95eC",
+  "status": "active",
+  "id": "0x2372DB5b0FbEa048b6a92069a38495bc457D95eC"
+}
